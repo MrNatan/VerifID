@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VerifID</string>
+    <string name="pass_hint">Password...</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="login_logo_desc">Login Logo</string>
+    <string name="login_btn">Login to Account</string>
+    <string name="login_reg_btn_text">Need a New Account?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn">Create New Account</string>
+    <string name="reg_login_btn">Already have an Account?</string>
+    <string name="confirm_pass_hint">Confirm Password...</string>
+    <string name="setupNameHint">Your Name...</string>
+    <string name="setupBtnText">Save Account Settings</string>
+    <string name="setupImageText">Add Profile Picture</string>
+</resources>
